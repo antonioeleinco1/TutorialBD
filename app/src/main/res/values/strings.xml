@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TutorialBD</string>
+    <string name="nombre">Nombre</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="ConNombre">Consultar x Nombre</string>
+    <string name="ConID">Consultar x ID</string>
+    <string name="vehiculo">Vehiculo</string>
+    <string name="persona">Persona</string>
+    <string name="tipo">Tipo</string>
+    <string name="ID">ID</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
